@@ -7,13 +7,13 @@ How would you describe an html page to a middle school kid?
 An html page is like a set of instructions that tell the web browser how to display the text you want to show on the page.
 Review:
 Decribe each of the following html tags:
-1. h1 = header 1, makes it bold
-2. h3
-3. li
-4. ul
-5. ol
-6. span
-7. div
-8. em
-9. strong
-10. p
+1. h1 = header 1, makes it bold and larger text
+2. h3 = header 3, make is bold and still larger that <p> but smaller than h1 and h2
+3. li = list, this tag states that the items inside this tag are in the defined list (either an ordered or unordered list)
+4. ul = unordered list, this is basically a bulleted list item
+5. ol = ordered list, this is a numbered list
+6. span = ?
+7. div = ?
+8. em = emphasis, this italicises whatever is in the tag
+9. strong = bold, this bolds whatever is in the tag
+10. p = paragraph, sets the styling to standard paragraph.
